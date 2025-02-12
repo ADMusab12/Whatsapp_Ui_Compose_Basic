@@ -23,12 +23,8 @@ This is a WhatsApp-like UI clone built using **Jetpack Compose** in Android. The
 Here are some screenshots of the app:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="![chats](https://github.com/user-attachments/assets/a7f0e815-e3b7-4c98-96f5-40e07230a1c7)
-" alt="Chats Screen" width="45%">
-  <img src="![status](https://github.com/user-attachments/assets/55db298a-0ee6-47c1-9511-c5c43e146bff)
-" alt="Status Screen" width="45%">
-  <img src="![call](https://github.com/user-attachments/assets/1fd2bd04-8415-4225-a844-d6cced901584)
-" alt="Calls Screen" width="45%">
-  <img src="![theme](https://github.com/user-attachments/assets/0f20ea0f-9dc4-4560-b53f-35c158b75fb0)
-" alt="Themes Screen" width="45%">
+  <img src="https://github.com/user-attachments/assets/a7f0e815-e3b7-4c98-96f5-40e07230a1c7" alt="Chats Screen" width="45%">
+  <img src="https://github.com/user-attachments/assets/55db298a-0ee6-47c1-9511-c5c43e146bff" alt="Status Screen" width="45%">
+  <img src="https://github.com/user-attachments/assets/1fd2bd04-8415-4225-a844-d6cced901584" alt="Calls Screen" width="45%">
+  <img src="https://github.com/user-attachments/assets/0f20ea0f-9dc4-4560-b53f-35c158b75fb0" alt="Themes Screen" width="45%">
 </div>
